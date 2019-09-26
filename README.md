@@ -6,7 +6,7 @@ Here is my progress on mastering Deep Reinforcement Learning in the form of smal
 
 *Project 1* **Cartpole**
 
-> Used the Cross-Entropy method, which is a model-free and policy-based approach, to solve the Cartpole game.
+> Used the Cross-Entropy method, which is a model-free and policy-based approach, to solve the Cartpole game. Implemented using Keras.
 
 
 ### Resources
